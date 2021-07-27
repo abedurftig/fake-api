@@ -1,0 +1,11 @@
+{
+  "activities": [
+    {
+      "id": 5683056220,
+      "name": "Test Ride",
+      "distance": 1,
+      "movingTime": 2,
+      "startDate": "2021-07-21T20:20:20",
+    }
+  ]
+}
