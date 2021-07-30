@@ -1,5 +1,6 @@
 {
   "activities": [
-    { "id": 5683056220, "name": "Test Ride", "distance": 1, "movingTime": 2, "startDate": 1516126040 }
+    { "id": 5683056220, "name": "Test Ride", "distance": 1, "movingTime": 2, "startDate": 1516126040 },
+    { "id": 5683056221, "name": "Test Ride", "distance": 1, "movingTime": 2, "startDate": "2021-07-30T22:22:22.000000000" }
   ]
 }
