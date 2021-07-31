@@ -1,6 +1,6 @@
 {
   "activities": [
-    { "id": 5683056220, "name": "Test Ride", "distance": 1, "moving_time": 2, "start_date": 1516126040, "timezone": "Europe/Berlin" },
-    { "id": 5683056221, "name": "Test Ride", "distance": 1, "moving_time": 2, "start_date": "2021-07-30T22:22:22.000000000", "timezone": "Europe/Berlin" }
+    { "id": 5683056220, "name": "Test Ride", "distance": 1, "moving_time": 2, "start_date": 1516126040, "timezone": "Europe/Berlin", "gear_id": 1, "type": "RIDE" },
+    { "id": 5683056221, "name": "Test Ride", "distance": 1, "moving_time": 2, "start_date": "2021-07-30T22:22:22.000000000", "timezone": "Europe/Berlin", "gear_id": 1, "type": "RIDE" }
   ]
 }
